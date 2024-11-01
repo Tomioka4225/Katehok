@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .body {
     background-color: rgb(0, 217, 255);   
 }
@@ -34,10 +40,10 @@ span {
 
 }
 
-.link {
-    font-style: italic;
-}
-
 .txt {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.link {
+    font-style: italic;
 }
