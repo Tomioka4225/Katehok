@@ -1,15 +1,40 @@
-.nav-item {
-    display: block;
+body {
+    padding: 30px;
+    margin: 0px;
+    min-height: 100vh;
+    max-width: 1600px;
+    min-width: 720px;
+    box-sizing: border-box;
 }
 
-.nav-none-markers {
-    list-style-type: none;
+h1 {
+    margin-bottom: 20px;
+    margin-top: 0px;
 }
 
-.nav-square-markers {
-    list-style-type: square;
+.card {
+
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    width: 600px;
 }
 
 .nav-circle-markers {
     list-style-type: circle;
+}
+.card-title {
+    margin-bottom: 10px;
+}
+
+.card-img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.txt {
+    margin-bottom: 0px;
+    margin-top: 0px;
 }
