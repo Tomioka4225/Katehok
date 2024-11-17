@@ -36,7 +36,6 @@ span {
     padding-left: 30;
 }
 
-<<<<<<< HEAD
 .circle {
     background-color: black;
     height: 250px;
@@ -44,8 +43,6 @@ span {
     border-radius: 10% 20% 30% 40% 50%;
 }
 
-=======
->>>>>>> 5393f7b2a42e5e131b14dfbd7a3f538cf37ed21a
 .txt {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
@@ -79,7 +76,14 @@ span {
     height: 100px;
 }
     
-
 .link {
     font-style: italic;
+}
+
+.nav-item {
+    display: block;
+}
+
+.main {
+    margin-bottom: 20px;
 }
